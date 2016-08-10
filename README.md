@@ -23,7 +23,7 @@ Otherwise, you're going to be left with not just a broken game, but with a broke
 
 _While not much focus should be put on this, we feel some points need to be clarified._
 
-* We were **first** and **only** collective team to reverse engineer and decrypt U6.
+* We were the **first** and **only** collective team to reverse engineer and decrypt U6.
 * We were also the **first** and only collective team to release a fixed API.
 * We did **not** accept money nor donations of any type of the work we did.
 * We are **not** botters nor do we support them. We don't **condone** all botting strongly.
