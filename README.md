@@ -32,6 +32,7 @@ _While not much focus should be put on this, we feel some points need to be clar
 _Regardless of how accurate or inaccurate_ these posts were, we've decided to link them for visibility.
 
 * http://arstechnica.com/gaming/2016/08/anti-cheat-technology-stopped-pokemon-go-hackers-for-four-days
+* http://www.androidheadlines.com/2016/08/pokemon-go-servers-cracked-wide-open.html
 * https://medium.com/@salqadri/a-peek-into-the-pok%C3%A9mon-go-hacking-scene-68d219134b14#.zeddw7lbj
 
 
