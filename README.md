@@ -54,6 +54,7 @@ In alphabetical order to list all of those who participated no matter how big or
 * HatchingEgg
 * jabbink
 * keyphact
+* Lyrex
 * SecureKernel
 * Unni
 * wchill
