@@ -61,6 +61,7 @@ In alphabetical order to list all of those who participated no matter how big or
 * SecureKernel
 * tejado
 * Unni
+* ur0
 * wchill
 * Xanatus
 * xssc
