@@ -47,6 +47,7 @@ _Come along and visit us_
 
 In alphabetical order to list all of those who participated no matter how big or small. We are **Team Unknown6**.
 
+* ';--Lambda
 * AeonLucid
 * CheesyNoob
 * Chip Wolf
