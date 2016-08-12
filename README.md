@@ -52,6 +52,7 @@ In alphabetical order to list all of those who participated no matter how big or
 * CheesyNoob
 * Chip Wolf
 * cyraxx
+* idontcarebear
 * globeriz
 * gt853
 * HatchingEgg
