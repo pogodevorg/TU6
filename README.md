@@ -31,8 +31,8 @@ _While not much focus should be put on this, we feel some points need to be clar
 
 _Regardless of how accurate or inaccurate these posts were_, we've decided to link them for visibility.
 
-* Ars Technica - [How hackers broke Pokémon G's anti-cheat technology in four day](http://arstechnica.com/gaming/2016/08/anti-cheat-technology-stopped-pokemon-go-hackers-for-four-days)
-* AndroidHeadlines - [Pokemon GO Servers Cracked Wide Open Again](http://www.androidheadlines.com/2016/08/pokemon-go-servers-cracked-wide-open.html)
+* Ars Technica - [How hackers broke Pokémon GO's anti-cheat technology in four days](http://arstechnica.com/gaming/2016/08/anti-cheat-technology-stopped-pokemon-go-hackers-for-four-days)
+* AndroidHeadlines - [Pokémon GO Servers Cracked Wide Open Again](http://www.androidheadlines.com/2016/08/pokemon-go-servers-cracked-wide-open.html)
 * Medium - [A Peek into the Pokémon Go Hacking Scene](https://medium.com/@salqadri/a-peek-into-the-pok%C3%A9mon-go-hacking-scene-68d219134b14)
 
 
