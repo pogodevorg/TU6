@@ -3,9 +3,9 @@
 From _**4th August 2016 - 00:49 GMT +1**_ until _**7th August 2016 - 01:05 GMT +1**_, amazing things happened.
 A community of Pokémon GO players from all around the world came together with the intention of restoring service to the third-party PoGO API.
 
-We were collectively dubbed **Team Unknown6**. The events which followed during those three and a half days was nothing short of special, and unforgettable.
+We were collectively known as **Team Unknown6**, due to the first unknown we tried to decrypt. The events which followed during those three and a half days was nothing short of special, and unforgettable.
 
-It was a lengthy battle of teamwork and raw effort to decrypt the U6 generation algorithm. The collaboration begun via the PokémonGoDev sub-reddit. After hysteria from the community of third-party developers and users, it was clear a more efficient communication stream had to be opened; the Discord (live-chat) was founded. A miracle of seamless collaboration begun between highly experienced engineers, this lead to multiple wiki pages and Github repositories created to track and pool together progress.
+It was a lengthy battle of teamwork and effort to decrypt the U6 generation algorithm. The collaboration begun via the PokémonGoDev sub-reddit and eventually spilled onto the Discord chat servers. Seamless collaboration begun between highly experienced engineers, which lead to multiple wiki pages and Github repositories created to track and pool together progress.
 
 Niantic shut off the original method of communicating with the Pokémon GO API in retaliation to botters abusing their privileges. However, the API had other major uses: such as building maps, inventory management, batch actions on Pokémon among a whole assortment of other very useful, non-distruptive tools.
 To date, we cannot think of one major Pokémon GO community that wasn't built off the back of applications which made use of the API.
