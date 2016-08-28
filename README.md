@@ -1,4 +1,6 @@
-# Team Unknown6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
+
+# Team Unknown6 [![license](https://img.shields.io/github/license/pogodevorg/TU6.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/TU6/blob/master/LICENSE)
 
 From _**4th August 2016 - 00:49 GMT +1**_ until _**7th August 2016 - 01:05 GMT +1**_, amazing things happened.
 A community of Pokémon GO players from all around the world came together with the intention of restoring service to the third-party PoGO API.
@@ -40,8 +42,9 @@ _Regardless of how accurate or inaccurate these posts were_, we've decided to li
 
 _Come along and visit us_
 
-* [Discord Chat Server](https://discord.gg/dKTSHZC)
-* [/r/pokemongodev Sub-reddit](https://www.reddit.com/r/pokemongodev/)
+* [Discord Chat Server](https://discord.pogodev.org)
+* [On-line Forums](https://talk.pogodev.org)
+* [/r/pokemongodev Sub-reddit](https://reddit.pogodev.org)
 
 ## Contributors
 
