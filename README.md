@@ -63,6 +63,7 @@ In alphabetical order to list all of those who participated no matter how big or
 * Jumboperson
 * keyphact
 * Lyrex
+* nullpixel (former nullriver)
 * ReBirTH
 * RocketRaccoon
 * SecureKernel
